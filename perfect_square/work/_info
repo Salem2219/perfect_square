@@ -1,0 +1,517 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Engineering/Year2/Semester Two/Digital Electronics/Labs/perfect_square
+Econtroller
+Z1 w1586213308
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Abdullah Salem/Documents/University/Algorithms/perfect_square
+Z6 8controller.vhd
+Z7 Fcontroller.vhd
+l0
+L5
+V:lE<ag6OI7O[NNH:;Cf[z1
+!s100 @;fV<k:<QB?5n`k11BPlE3
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1586310435
+!i10b 1
+Z10 !s108 1586310435.000000
+Z11 !s90 controller.vhd|counter_8bit.vhd|datapath.vhd|divide_by_2_8bit.vhd|isEqual_16bit.vhd|isEqual_8bit.vhd|isLess_16bit.vhd|isLess_8bit.vhd|square_8bit.vhd|tb.vhd|toplevel.vhd|
+Z12 !s107 toplevel.vhd|tb.vhd|square_8bit.vhd|isLess_8bit.vhd|isLess_16bit.vhd|isEqual_8bit.vhd|isEqual_16bit.vhd|divide_by_2_8bit.vhd|datapath.vhd|counter_8bit.vhd|controller.vhd|
+!i113 1
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+Z14 DEx4 work 10 controller 0 22 :lE<ag6OI7O[NNH:;Cf[z1
+l15
+L12
+Z15 V:I;b4N<B]@SQa1@BYSWLI0
+Z16 !s100 DQ>KM^T^Wmb1jH<TKXVS@1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Ecounter_8bit
+Z17 w1586181724
+R2
+R3
+R4
+R5
+Z18 8counter_8bit.vhd
+Z19 Fcounter_8bit.vhd
+l0
+L5
+Vo;:L?k`V6IgceIG04`i2P1
+!s100 E>iL@@V]D7PPfoCYnUEng1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z20 DEx4 work 12 counter_8bit 0 22 o;:L?k`V6IgceIG04`i2P1
+l13
+L11
+Z21 VM?2D;C[llRXE6ObI[Qe7H0
+Z22 !s100 H9M6;Vg0<Q^Idz03OF1:m3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Edatapath
+Z23 w1586216752
+R2
+R3
+R4
+R5
+Z24 8datapath.vhd
+Z25 Fdatapath.vhd
+l0
+L5
+V=S^`TB^:QTY5OHTVVMEL92
+!s100 ?9^i77QU:helamN3EfjQj1
+R8
+32
+Z26 !s110 1586310436
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z27 DEx4 work 8 datapath 0 22 =S^`TB^:QTY5OHTVVMEL92
+l46
+L11
+Z28 VGM2<QFcmUfWTlU:IaXmLS1
+Z29 !s100 CjI>JIR[7e9Y_mE=Dz26R0
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Edivide_by_2_8bit
+Z30 w1586181526
+R2
+R3
+R4
+R5
+Z31 8divide_by_2_8bit.vhd
+Z32 Fdivide_by_2_8bit.vhd
+l0
+L5
+VLVcZoTd>CofFPeDIWWHQm3
+!s100 ^`Kg[FKOOkD34>B5oc91h3
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z33 DEx4 work 16 divide_by_2_8bit 0 22 LVcZoTd>CofFPeDIWWHQm3
+l11
+L10
+Z34 V5anGD1Q055^Y]CPkfilO02
+Z35 !s100 KeYFDUCHO>XE>XOZ?k>zA2
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Eisequal_16bit
+Z36 w1586187064
+R2
+R3
+R4
+R5
+Z37 8isEqual_16bit.vhd
+Z38 FisEqual_16bit.vhd
+l0
+L5
+VBda@h=kg=e=S_n2=MNe3f3
+!s100 zgJE573NU7c>RK>d2?Ij`3
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z39 DEx4 work 13 isequal_16bit 0 22 Bda@h=kg=e=S_n2=MNe3f3
+l11
+L10
+Z40 Voe;JGdmJ8zlYQFHz0ON[L3
+Z41 !s100 4kMN:5RHhZ4W9JjT=bGPM2
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Eisequal_8bit
+Z42 w1586187056
+R2
+R3
+R4
+R5
+Z43 8isEqual_8bit.vhd
+Z44 FisEqual_8bit.vhd
+l0
+L5
+V21e?9OWnRWcf4Pl23Zni<2
+!s100 TALbi^BPZX3LjPaR=5?g31
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z45 DEx4 work 12 isequal_8bit 0 22 21e?9OWnRWcf4Pl23Zni<2
+l11
+L10
+Z46 VM7YL9hWKK43LV`dYg9:fk2
+Z47 !s100 DZ>c>d<o:7;b>n_g3`ci11
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Eisless_16bit
+Z48 w1586187085
+R2
+R3
+R4
+R5
+Z49 8isLess_16bit.vhd
+Z50 FisLess_16bit.vhd
+l0
+L5
+V?7]FoGF0B4IQo5h`^`R_53
+!s100 9e6Ogd1ai@WX4EL]@1aG63
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z51 DEx4 work 12 isless_16bit 0 22 ?7]FoGF0B4IQo5h`^`R_53
+l11
+L10
+Z52 VC;kiKO:[ZB2iLI=4oea6`1
+Z53 !s100 hbTGE6N3;iPedSI5_=e@;2
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Eisless_8bit
+Z54 w1586187072
+R2
+R3
+R4
+R5
+Z55 8isLess_8bit.vhd
+Z56 FisLess_8bit.vhd
+l0
+L5
+VVGiM`g`imJZ[C;`KaOX]G2
+!s100 W`k?cmOibVem1:TJ]JG[h3
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z57 DEx4 work 11 isless_8bit 0 22 VGiM`g`imJZ[C;`KaOX]G2
+l11
+L10
+Z58 V_;=h=n8l^J?7@a<eC`[MR3
+Z59 !s100 U3f>>[a>>jP2h9SSD6f522
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Emux4_1
+Z60 w1586187095
+R2
+R3
+R4
+R0
+Z61 8mux4_1.vhd
+Z62 Fmux4_1.vhd
+l0
+L5
+VEL;j62Flg<l_:_5@NE]i:2
+!s100 T?d]gSA@G`a2kh;N8>f@R1
+R8
+32
+Z63 !s110 1586213872
+!i10b 1
+Z64 !s108 1586213871.000000
+Z65 !s90 controller.vhd|counter_8bit.vhd|datapath.vhd|divide_by_2_8bit.vhd|isEqual_16bit.vhd|isEqual_8bit.vhd|isLess_16bit.vhd|isLess_8bit.vhd|mux4_1.vhd|reg_8bit.vhd|square_8bit.vhd|toplevel.vhd|
+Z66 !s107 toplevel.vhd|square_8bit.vhd|reg_8bit.vhd|mux4_1.vhd|isLess_8bit.vhd|isLess_16bit.vhd|isEqual_8bit.vhd|isEqual_16bit.vhd|divide_by_2_8bit.vhd|datapath.vhd|counter_8bit.vhd|controller.vhd|
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 6 mux4_1 0 22 EL;j62Flg<l_:_5@NE]i:2
+l12
+L11
+Vil:2IHei_Kd0OdnQZO90<3
+!s100 RoLW0ZooS9V:Ahc6_d?_W1
+R8
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R13
+Ereg_8bit
+Z67 w1586187123
+R2
+R3
+R4
+R0
+Z68 8reg_8bit.vhd
+Z69 Freg_8bit.vhd
+l0
+L5
+V6V6URf37cHlPQeC:[d91R2
+!s100 ?Z_iAR[DbD7KFf>eQcX?m2
+R8
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 8 reg_8bit 0 22 6V6URf37cHlPQeC:[d91R2
+l12
+L11
+V@_=Cj]]50B5ocbVZ3SfW20
+!s100 UU]3?kRVa^nHQQ5lPG?WO1
+R8
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R13
+Esquare_8bit
+Z70 w1586183958
+R2
+R3
+R4
+R5
+Z71 8square_8bit.vhd
+Z72 Fsquare_8bit.vhd
+l0
+L5
+VQElLC:XgGAOIZJzOS4XU73
+!s100 T_liPL_RXEN6`jQRc;BJJ3
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z73 DEx4 work 11 square_8bit 0 22 QElLC:XgGAOIZJzOS4XU73
+l12
+L10
+Z74 VEYNoo842^YVf`JSM5>ZF30
+Z75 !s100 I47Q7ekPQZRUGMXekjfE=2
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Etb
+Z76 w1586310424
+R2
+R3
+R4
+R5
+Z77 8tb.vhd
+Z78 Ftb.vhd
+l0
+L5
+VPaOkmRoDXd>8hWX<3zPcL1
+!s100 TF^Rd04>k5_8lb_^cC:Al0
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Abehav
+R2
+R3
+R4
+Z79 DEx4 work 2 tb 0 22 PaOkmRoDXd>8hWX<3zPcL1
+l19
+L8
+VLkb7=@bl@8g4?N:;B:;;n1
+!s100 3zaL3KbLilY9AJ`0NFTJ<3
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Etoplevel
+Z80 w1586214939
+R2
+R3
+R4
+R5
+Z81 8toplevel.vhd
+Z82 Ftoplevel.vhd
+l0
+L5
+Vno<ZjcCEaeGTY7b<_DmA91
+!s100 NWTKazCiTbDAi?[i3[Q>=0
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Artl
+R2
+R3
+R4
+Z83 DEx4 work 8 toplevel 0 22 no<ZjcCEaeGTY7b<_DmA91
+l32
+L11
+Z84 V`MDPLn`gdJTGFHUS8j@fB1
+Z85 !s100 :1nFmeanefZD?K[4Ld4;G3
+R8
+32
+R26
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
